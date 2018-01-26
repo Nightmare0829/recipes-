@@ -7,8 +7,8 @@
 [iOS音频播放 (六)：简单的音频播放器实现](https://msching.github.io/blog/2014/08/09/audio-in-ios-6/)
 [iOS音频播放 (七)：播放iPod Library中的歌曲](https://msching.github.io/blog/2014/09/07/audio-in-ios-7/)
 [iOS音频播放 (八)：NowPlayingCenter和RemoteControl](https://msching.github.io/blog/2014/11/06/audio-in-ios-8/)
-[]
+[](https://msching.github.io/blog/2016/05/24/audio-in-ios-9/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTExOTU1NjhdfQ==
+eyJoaXN0b3J5IjpbMjQyNDQwNjI0XX0=
 -->
